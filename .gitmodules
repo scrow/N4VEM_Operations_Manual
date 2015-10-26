@@ -1,0 +1,3 @@
+[submodule "sty"]
+	path = sty
+	url = https://github.com/scrow/n4vem-latex-templates.git
